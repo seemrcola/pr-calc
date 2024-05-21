@@ -14,7 +14,7 @@ function go() {
 
 <template>
   <div>
-    <div i-game-icons:tiger-headinline-block text-4xl />
+    <div i-carbon:cookie m-auto mb-4 text-3xl />
     <p>
       PR Calculator
     </p>
